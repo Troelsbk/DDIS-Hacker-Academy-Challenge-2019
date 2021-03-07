@@ -1,3 +1,5 @@
+![image](https://ibb.co/LYBmwsS)
+
 ## Femtium architecture 
 #### Writeup to the binexp1 challange from the danish [Hackerakademiet].
 We are given a binary (binexp1) file writtein the fictive Femtium architecture. 
