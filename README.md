@@ -22,20 +22,20 @@ To sum up the program does the following:
 Solution:
 We have to combine the second string with some input string (the flag?) to yield the reference string. 
 
-### binexp_vm.py 
+## binexp_vm.py 
 My partial implementaion of the Virtual machine for Femtium file, since only instructions needed to complite the challange are implemented.
-### Femtium_assamble.asm
+## Femtium_assamble.asm
 Femtium assemble with comments. It contains assemble from two runs. 
 - One full print of instructions with no reference string stored in memory at 0x4b8 which return the "nope". 
 - Located at the bottom, is a partial print from a second run, with the reference string artificially written to memory location 0x4b8 which returns "you did it!". 
 
-### instructions.md
+## instructions.md
 Femtium Instruction Reference. Contain Instruction Format, Field reference ect. 
 
-### binexp1
+## binexp1
 The original Femtium file from the challange
 
-### binexp_functions.py
+## binexp_functions.py
 My solution the challange. 
 The flag is printed in the end.
 
