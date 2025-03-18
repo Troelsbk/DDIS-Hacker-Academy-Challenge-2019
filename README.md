@@ -1,7 +1,9 @@
 ## The Femtium architecture 
-#### Writeup to the binexp1 challange from the danish [Hackerakademiet].
+#### This is the write-up for the binexp1 challenge in the Danish Defence Intelligence Service requirement campaign for the newly announced Hacker Academy [Hackerakademiet]. 
+##### For more info see [Version2].
+
 We are given a binary (binexp1) file written for the fictive Femtium architecture. 
-Since no tools are available to analyse this file format, we have to contruct our own tools.
+Since no tools are available to analyse this file format, we have to contruct our own Femtium CPU from the given instruction set.
 
 To sum up the program does the following:
 - Writes "Password:" to stdout.
@@ -39,7 +41,14 @@ The original Femtium file from the challange
 My solution the challange. 
 The flag is printed in the end.
 
-Overall a very fun challange.
+# Summary
+Overall, a very fun exercise. A few months later, a mug arrived in the mail as a reward for completing the challenge. 
+This exercise was by far the most interesting in the set and was in line with the earlier challenge presented back in [2017].
+
+
+
  
 
 [Hackerakademiet]: https://hackerakademi.dk
+[Version2]: https://www.version2.dk/artikel/forsvaret-er-paa-jagt-efter-hackere-til-specialenhed
+[2017]: https://github.com/RobertLarsen/FE-2017
